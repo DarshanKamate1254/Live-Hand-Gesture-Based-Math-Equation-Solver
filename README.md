@@ -20,7 +20,7 @@ math_recognizer.py # OCR & Equation Solver
 hand_detector.py # Hand Tracking Logic
 requirements.txt # Dependencies
 ## Architecture
-![Architecture](Architecture_College (2).png)
+![Architecture](Architecture__.png)
 ##  How to Run
 ```bash
 git clone https://github.com/yourusername/live-hand-gesture-math-solver.git
